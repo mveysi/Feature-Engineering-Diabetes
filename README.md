@@ -1,5 +1,7 @@
 Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir makine öğrenmesi modeline ne kadar etki yapıyor bunu anlayabiliyoruz.
 
+---Verideki Değişkenler---
+
 Pregnancies:  Hamilelik sayısı
 
 
@@ -29,7 +31,9 @@ Outcome:  Hastalığa sahip (1) ya da değil (0)
 
 
 
-Model Adımları:
+
+
+---Model Adımları:
 
 
    1- Veri 
