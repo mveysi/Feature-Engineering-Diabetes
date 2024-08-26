@@ -62,12 +62,9 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
    
    7- Encoding işlemleri
-
    
       7.1- Binary
-      
-      7.2- Label
-      
+      7.2- Label     
       7.3- One-Hot
       
    8-Scaling işlemi 
