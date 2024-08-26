@@ -1,5 +1,10 @@
 Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir makine öğrenmesi modeline ne kadar etki yapıyor bunu anlayabiliyoruz.
 
+
+![seker-hastaligi](https://github.com/user-attachments/assets/12ff79c5-97bb-4eb2-bb48-682b9a5052ab)
+
+
+
 ---Verideki Değişkenler---
 
 Pregnancies:  Hamilelik sayısı
