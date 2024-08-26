@@ -1,4 +1,4 @@
-# Model Amacı
+# Model Amacı:
 
 Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir makine öğrenmesi modeline ne kadar etki yapıyor bunu anlayabiliyoruz.Bu modelden %81'lik bir doğruluk oranı alıyoruz. Daha detaylı işlemler ile bunu geliştirebiliriz. Feature Engineering farkı için detaya girmedik ama istersek model optimizasyonu yapabiliriz.
 
@@ -7,7 +7,7 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 
 
-# Verideki Değişkenler
+# Verideki Değişkenler:
 
  Pregnancies:  Hamilelik sayısı
 
@@ -40,7 +40,7 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 
 
-# Model Adımları 
+# Model Adımları:
 
 
    1- Veri Yükleme
