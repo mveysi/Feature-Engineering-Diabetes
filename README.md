@@ -14,6 +14,8 @@ Outcome:  Hastalığa sahip (1) ya da değil (0)
 
 
 Model Adımları:
+
+
    1- Veri 
 
    
@@ -21,13 +23,28 @@ Model Adımları:
 
    
    3- Başlangıç modeli(Base Model)
+
+   
    4- Eksik Değerler (Missing Values)
+
+   
    5- Aykırı Değerler(Outliers)
+
+   
    6- Yeni değişken üretme
+
+   
    7- Encoding işlemleri
+
+   
       1- Binary
+      
       2- Label
+      
       3- One-Hot
+      
    8-Scaling işlemi 
+
+   
    9- Final Modeli
    
