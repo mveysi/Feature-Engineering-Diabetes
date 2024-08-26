@@ -7,10 +7,10 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 ### Verideki Değişkenler
 
-Pregnancies:  Hamilelik sayısı
+# Pregnancies:  Hamilelik sayısı
 
 
-Glucose:  Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
+# Glucose:  Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
 
 
 Blood Pressure:  Kan Basıncı (Küçük tansiyon) (mm Hg)
