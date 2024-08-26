@@ -43,7 +43,7 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 # Model Adımları 
 
 
-   1- Veri 
+   1- Veri Yükleme
 
    
    2- Veri Analizi
