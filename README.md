@@ -5,7 +5,7 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 
 
----Verideki Değişkenler---
+**### ---Verideki Değişkenler---**
 
 Pregnancies:  Hamilelik sayısı
 
