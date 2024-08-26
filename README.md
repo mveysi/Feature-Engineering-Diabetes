@@ -25,16 +25,13 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 ### DiabetesPedigreeFunction: Fonksiyon (Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu)
 
 
-### BMI:  
-Vücut kitle endeksi
+### BMI:  Vücut kitle endeksi
 
 
-### Age: 
-Yaş (yıl)
+### Age: Yaş (yıl)
 
 
-### Outcome:  
-Hastalığa sahip (1) ya da değil (0)
+### Outcome: _Hastalığa sahip (1) ya da değil (0)
 
 
 
