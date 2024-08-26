@@ -1,4 +1,4 @@
-Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir makine öğrenmesi modeline ne kadar etki yapıyor bunu anlayabiliyoruz.
+Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir makine öğrenmesi modeline ne kadar etki yapıyor bunu anlayabiliyoruz.Bu modelden %81'lik bir doğruluk oranı alıyoruz. Daha detaylı işlemler ile bunu geliştirebiliriz.
 
 
 ![seker-hastaligi](https://github.com/user-attachments/assets/12ff79c5-97bb-4eb2-bb48-682b9a5052ab)
