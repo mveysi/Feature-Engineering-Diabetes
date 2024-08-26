@@ -5,7 +5,7 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 
 
-** ---Verideki Değişkenler---**
+### Verideki Değişkenler
 
 Pregnancies:  Hamilelik sayısı
 
@@ -38,7 +38,7 @@ Outcome:  Hastalığa sahip (1) ya da değil (0)
 
 
 
-----Model Adımları ----
+### Model Adımları 
 
 
    1- Veri 
