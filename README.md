@@ -15,7 +15,11 @@ Outcome:  Hastalığa sahip (1) ya da değil (0)
 
 Model Adımları:
    1- Veri 
+
+   
    2- Veri Analizi
+
+   
    3- Başlangıç modeli(Base Model)
    4- Eksik Değerler (Missing Values)
    5- Aykırı Değerler(Outliers)
