@@ -5,18 +5,18 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 
 
-### Verideki Değişkenler
+# Verideki Değişkenler
 
-# Pregnancies:  Hamilelik sayısı
-
-
-# Glucose:  Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
+### Pregnancies:  Hamilelik sayısı
 
 
-Blood Pressure:  Kan Basıncı (Küçük tansiyon) (mm Hg)
+### Glucose:  Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
 
 
-SkinThickness:  Cilt Kalınlığı
+### Blood Pressure:  Kan Basıncı (Küçük tansiyon) (mm Hg)
+
+
+### SkinThickness:  Cilt Kalınlığı
 
 
 Insulin:  2 saatlik serum insülini (mu U/ml)
