@@ -38,7 +38,7 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 
 
-### Model Adımları 
+# Model Adımları 
 
 
    1- Veri 
