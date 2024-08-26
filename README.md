@@ -19,19 +19,22 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 ### SkinThickness:  Cilt Kalınlığı
 
 
-Insulin:  2 saatlik serum insülini (mu U/ml)
+### Insulin:  2 saatlik serum insülini (mu U/ml)
 
 
-DiabetesPedigreeFunction: Fonksiyon (Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu)
+### DiabetesPedigreeFunction: Fonksiyon (Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu)
 
 
-BMI:  Vücut kitle endeksi
+### BMI:  
+Vücut kitle endeksi
 
 
-Age:  Yaş (yıl)
+### Age: 
+Yaş (yıl)
 
 
-Outcome:  Hastalığa sahip (1) ya da değil (0)
+### Outcome:  
+Hastalığa sahip (1) ya da değil (0)
 
 
 
