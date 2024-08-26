@@ -1,3 +1,5 @@
+# Model Amacı
+
 Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir makine öğrenmesi modeline ne kadar etki yapıyor bunu anlayabiliyoruz.Bu modelden %81'lik bir doğruluk oranı alıyoruz. Daha detaylı işlemler ile bunu geliştirebiliriz. Feature Engineering farkı için detaya girmedik ama istersek model optimizasyonu yapabiliriz.
 
 
@@ -7,31 +9,31 @@ Bu proje başlangıç olarak feature engineeringin önemini anlatıyor. Bir maki
 
 # Verideki Değişkenler
 
-### Pregnancies:  Hamilelik sayısı
+ Pregnancies:  Hamilelik sayısı
 
 
-### Glucose:  Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
+ Glucose:  Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu
 
 
-### Blood Pressure:  Kan Basıncı (Küçük tansiyon) (mm Hg)
+ Blood Pressure:  Kan Basıncı (Küçük tansiyon) (mm Hg)
 
 
-### SkinThickness:  Cilt Kalınlığı
+ SkinThickness:  Cilt Kalınlığı
 
 
-### Insulin:  2 saatlik serum insülini (mu U/ml)
+ Insulin:  2 saatlik serum insülini (mu U/ml)
 
 
-### DiabetesPedigreeFunction: Fonksiyon (Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu)
+ DiabetesPedigreeFunction: Fonksiyon (Oral glikoz tolerans testinde 2 saatlik plazma glikoz konsantrasyonu)
 
 
-### BMI:  Vücut kitle endeksi
+ BMI:  Vücut kitle endeksi
 
 
-### Age: Yaş (yıl)
+ Age: Yaş (yıl)
 
 
-### Outcome: _Hastalığa sahip (1) ya da değil (0)
+ Outcome: _Hastalığa sahip (1) ya da değil (0)
 
 
 
